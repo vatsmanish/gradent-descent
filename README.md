@@ -1,0 +1,4 @@
+# gradent-descent
+importance of gradent descent  in linear regression in data science 
+When you venture into machine learning one of the fundamental aspects of your learning would be to understand “Gradient Descent”. Gradient descent is the backbone of an machine learning algorithm. In this article I am going to attempt to explain the fundamentals of gradient descent using python code. Once you get hold of gradient descent things start to be more clear and it is easy to understand different algorithms.Much has been already written on this topic so it is not going to be a ground breaking one. To follow along and build your own gradient descent you will need some basic python packages viz. numpy and matplotlib to visualize.
+Let us start with some data, even better let us create some data. We will create a linear data with some random Gaussian noise.
